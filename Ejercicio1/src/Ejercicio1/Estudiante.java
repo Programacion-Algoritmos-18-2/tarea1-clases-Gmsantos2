@@ -11,7 +11,7 @@ package Ejercicio1;
  */
 public class Estudiante {
 
-    String nombr; //variables del objeto
+    String nombr; //variables de la clase
     int e;
 
     
